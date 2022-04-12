@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+//these three are added to the shit
+// import './landing/css/webflow.css'
+// import './landing/css/normalize.css'
+// import './landing/css/testing-e28d15.webflow.css'
 
 ReactDOM.render(
   <React.StrictMode>

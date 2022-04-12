@@ -1,5 +1,6 @@
 import logo from '../Assets/logo_1.png';
 import { LockClosedIcon } from '@heroicons/react/solid'
+import LoginHooks from './G-Login.js';
 
 
 
@@ -88,6 +89,7 @@ const Login = () => {
                 Sign in
               </button>
               </a>
+              <LoginHooks />
             </div>
           </form>
         </div>
